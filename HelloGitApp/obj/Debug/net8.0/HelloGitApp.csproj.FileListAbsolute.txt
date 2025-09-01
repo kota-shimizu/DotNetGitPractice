@@ -1,0 +1,14 @@
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\bin\Debug\net8.0\HelloGitApp.exe
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\bin\Debug\net8.0\HelloGitApp.deps.json
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\bin\Debug\net8.0\HelloGitApp.runtimeconfig.json
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\bin\Debug\net8.0\HelloGitApp.dll
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\bin\Debug\net8.0\HelloGitApp.pdb
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\HelloGitApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\HelloGitApp.AssemblyInfoInputs.cache
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\HelloGitApp.AssemblyInfo.cs
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\HelloGitApp.csproj.CoreCompileInputs.cache
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\HelloGitApp.dll
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\refint\HelloGitApp.dll
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\HelloGitApp.pdb
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\HelloGitApp.genruntimeconfig.cache
+C:\Users\kota.shimizu\Documents\99.CodePractice\03..net\HelloGitApp\obj\Debug\net8.0\ref\HelloGitApp.dll
